@@ -1,2 +1,2 @@
 # Optimising-Agriculture-Production
-Suggests what crop to grow according to the given soil and climate conditions
+Predictive model using Logistic Regression which suggests what crop to grow according to the given soil and climatic conditions.
